@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "ContagemIdade.Job": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "CODER_BYTE_API": "https://coderbyte.com/",
+        "ENPOINT": "api/challenges/json/age-counting"
+      }
+    }
+  }
+}
